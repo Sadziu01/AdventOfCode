@@ -1,0 +1,14 @@
+C:\Users\Sadziu\source\repos\AoC3\AoC3\bin\Release\net8.0\AoC3.exe
+C:\Users\Sadziu\source\repos\AoC3\AoC3\bin\Release\net8.0\AoC3.deps.json
+C:\Users\Sadziu\source\repos\AoC3\AoC3\bin\Release\net8.0\AoC3.runtimeconfig.json
+C:\Users\Sadziu\source\repos\AoC3\AoC3\bin\Release\net8.0\AoC3.dll
+C:\Users\Sadziu\source\repos\AoC3\AoC3\bin\Release\net8.0\AoC3.pdb
+C:\Users\Sadziu\source\repos\AoC3\AoC3\obj\Release\net8.0\AoC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadziu\source\repos\AoC3\AoC3\obj\Release\net8.0\AoC3.AssemblyInfoInputs.cache
+C:\Users\Sadziu\source\repos\AoC3\AoC3\obj\Release\net8.0\AoC3.AssemblyInfo.cs
+C:\Users\Sadziu\source\repos\AoC3\AoC3\obj\Release\net8.0\AoC3.csproj.CoreCompileInputs.cache
+C:\Users\Sadziu\source\repos\AoC3\AoC3\obj\Release\net8.0\AoC3.dll
+C:\Users\Sadziu\source\repos\AoC3\AoC3\obj\Release\net8.0\refint\AoC3.dll
+C:\Users\Sadziu\source\repos\AoC3\AoC3\obj\Release\net8.0\AoC3.pdb
+C:\Users\Sadziu\source\repos\AoC3\AoC3\obj\Release\net8.0\AoC3.genruntimeconfig.cache
+C:\Users\Sadziu\source\repos\AoC3\AoC3\obj\Release\net8.0\ref\AoC3.dll

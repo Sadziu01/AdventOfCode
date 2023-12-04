@@ -1,0 +1,14 @@
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\bin\Debug\net8.0\Aoc2.exe
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\bin\Debug\net8.0\Aoc2.deps.json
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\bin\Debug\net8.0\Aoc2.runtimeconfig.json
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\bin\Debug\net8.0\Aoc2.dll
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\bin\Debug\net8.0\Aoc2.pdb
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\obj\Debug\net8.0\Aoc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\obj\Debug\net8.0\Aoc2.AssemblyInfoInputs.cache
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\obj\Debug\net8.0\Aoc2.AssemblyInfo.cs
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\obj\Debug\net8.0\Aoc2.csproj.CoreCompileInputs.cache
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\obj\Debug\net8.0\Aoc2.dll
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\obj\Debug\net8.0\refint\Aoc2.dll
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\obj\Debug\net8.0\Aoc2.pdb
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\obj\Debug\net8.0\Aoc2.genruntimeconfig.cache
+C:\Users\Sadziu\source\repos\Aoc2\Aoc2\obj\Debug\net8.0\ref\Aoc2.dll
